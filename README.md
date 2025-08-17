@@ -3,7 +3,7 @@
 ### 📌 What
 
 The **Layaway Purchase Contract** allows customers to buy products in **installments**.
-
+ 
 - The buyer pays the product price over time in small payments (installments).  
 - The funds are **locked in the smart contract** until the **total price is reached**.  
 - Once the target is met, the seller receives the full amount automatically.
